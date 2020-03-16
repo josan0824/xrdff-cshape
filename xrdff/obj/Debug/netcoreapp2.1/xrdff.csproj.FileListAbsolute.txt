@@ -1,0 +1,14 @@
+D:\xrdff\xrdff\xrdff\bin\Debug\netcoreapp2.1\xrdff.deps.json
+D:\xrdff\xrdff\xrdff\bin\Debug\netcoreapp2.1\xrdff.runtimeconfig.json
+D:\xrdff\xrdff\xrdff\bin\Debug\netcoreapp2.1\xrdff.runtimeconfig.dev.json
+D:\xrdff\xrdff\xrdff\bin\Debug\netcoreapp2.1\xrdff.dll
+D:\xrdff\xrdff\xrdff\bin\Debug\netcoreapp2.1\xrdff.pdb
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.csprojAssemblyReference.cache
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.csproj.CoreCompileInputs.cache
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.RazorAssemblyInfo.cache
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.RazorAssemblyInfo.cs
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.AssemblyInfoInputs.cache
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.AssemblyInfo.cs
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.RazorTargetAssemblyInfo.cache
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.dll
+D:\xrdff\xrdff\xrdff\obj\Debug\netcoreapp2.1\xrdff.pdb
